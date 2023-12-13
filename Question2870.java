@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
+//https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty
 //Minimum number of operations to make Array Empty
 import java.util.*;
 public class Question2870 {
